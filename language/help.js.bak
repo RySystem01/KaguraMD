@@ -4,7 +4,7 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
-  👑 Creator : *Rayy*
+  👑 Creator : *Lexxy Official*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -406,7 +406,7 @@ exports.menusimpel = (botname, pushname, salam, ownername, time, tanggal) => {
 	return`Selamat *${salam}* ${pushname} 👋
 
   *INFO BOT*
-  👑 Creator : *Rayy*
+  👑 Creator : *Lexxy Official*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -471,19 +471,19 @@ Thanks!
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *❏* Sewa Bot 5k (1 minggu)
-  *❏* Sewa Bot 10k (1 bulan)
-  *❏* Sewa Bot 15k (Permanen)
+  *❏* Sewa Bot 15k (1 minggu)
+  *❏* Sewa Bot 20k (1 bulan)
+  *❏* Sewa Bot 25k (Permanen)
 
   *JADI BOT* 
-  *❏* Jadi Bot 5k Tidak Owner (1 minggu)
-  *❏* Jadi Bot + Owner 10k (1 bulan)
-  *❏* Jadi Bot + Owner 20k (Permanen)
+  *❏* Jadi Bot 15k Tidak Owner (1 minggu)
+  *❏* Jadi Bot + Owner 20k (1 bulan)
+  *❏* Jadi Bot + Owner 25k (Permanen)
 
   *JASA RUN BOT*
-  *❏* Run Bot 5k (1 minggu)
-  *❏* Run Bot 10k (1 bulan)
-  *❏* Run Bot 15k (Permanen)
+  *❏* Run Bot 15k (1 minggu)
+  *❏* Run Bot 20k (1 bulan)
+  *❏* Run Bot 25k (Permanen)
 
   *Minat? Langsung chat aja ya cuy 🐦*
 
@@ -969,7 +969,7 @@ exports.thanksto = () => {
   *≻* ZeeoneOfc
   *≻* FatihArridho
   *≻* Yoga
-  *≻* Rayy
+  *≻* Lexxy Official
   *≻* Riy Botz
   *≻* Deff
   *≻* Sanzy
